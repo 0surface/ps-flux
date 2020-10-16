@@ -1,3 +1,6 @@
+## Building a Web Application Excercise with React and Flux
+A live excercise 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
